@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94701430687'] //ur owner number
+global.vcardowner = ['94772825850'] //ur owner number
 global.ownername = " ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²" //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Kaveen00" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94701430687']
-global.ownertag = '94701430687' //ur tag number
+global.owner = ['94772825850']
+global.ownertag = '94772825850' //ur tag number
 global.botname = ' ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟කවීන් ²ᵏ²²' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94701430687'] //ur premium numbers
+global.premium = ['94772825850'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
